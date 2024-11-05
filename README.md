@@ -1,5 +1,7 @@
 # React In-class Exam, November 2024
 
+Haiqing Ji, 20109223
+
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
